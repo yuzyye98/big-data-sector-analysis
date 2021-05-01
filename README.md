@@ -17,13 +17,13 @@ Luckily, there are world leading companies that tackle these very problems and t
 
 **Check out these links for more information below:**
 
-Amazon S3
+- Amazon S3
 https://aws.amazon.com/s3/
 
-Amazon SageMaker
+- Amazon SageMaker
 https://aws.amazon.com/sagemaker/
 
-Amazon QuickSight
+- Amazon QuickSight
 https://aws.amazon.com/quicksight/
 
 
