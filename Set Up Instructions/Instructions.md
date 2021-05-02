@@ -2,7 +2,7 @@
 The instructions are fairly straight forward to replicate our study. Below are the steps and resources we used in our project.
 
 # Data source
-We leveraged a subset of the Kaggle dataset [Amazon Product Review ( Spam and Non Spam)](https://www.kaggle.com/naveedhn/amazon-product-review-spam-and-non-spam) to conduct our project. Specifically, we focused on the `electronics.json` file. 
+We leveraged a subset of the Kaggle dataset [Amazon Product Review ( Spam and Non Spam)](https://www.kaggle.com/naveedhn/amazon-product-review-spam-and-non-spam) to conduct our project. Specifically, we focused on the `electronics.json` file, which contains around 7.5 millions rows of review data. 
 
 # Steps to re-produce our results
 1. Create a S3 bucket.
