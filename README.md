@@ -1,5 +1,4 @@
-# Big Data Made Easy
-Manage, Analyze, & Visualize Data Insights with AWS
+# Big Data Made EasyManage, Analyze, & Visualize Data Insights with AWS
 
 
 **Introduction:**
