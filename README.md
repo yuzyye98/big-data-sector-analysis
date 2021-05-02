@@ -1,8 +1,6 @@
 # Big Data Made Easy - Manage, Analyze, & Visualize Data Insights with AWS
 
 
-**Introduction:**
-
 As we all know, Big Data is a hot topic in the world today.  From customer experience optimization engines at Netflix to stunningly accurate weather prediction technology on windows, its applications can be found anywhere.  What we aim to show viewers in this project is a sequential solution to a common problem that every business is facing today, which is what to do we do with all this data?  This is an important issue to solve, because business insights found through big data can be taken advantage of leading ultimately to a better customer experience and more profit for companies.  An ideal solution should satisfy these requirements:
 
   1) Store big data in an environment that is secure, manageable, scalable, and can hold a ton of data all at an affordable price
