@@ -11,9 +11,10 @@ As we all know, Big Data is a hot topic in the world today.  From customer exper
 Luckily, there are world leading companies that tackle these very problems and they do it well.  To solve the first problem about storage, AWS's S3 simple storage system is the premier cloud storage and mangement platform.  With S3, secure, manageable, scalable big data storage is only a few clicks away with the added benefit of being at an affordable price.  For problem number two, once the data is stored, AWS's SageMaker is the ideal candidate to pair with S3 to build, train, and deploy state of the art machine learning solutions.  And finally, to visualize, AWS's QuickSight visualization platform offers an easy to understand user interface able to pull insights from multiple data sources available including easy integration with AWS, third party data, spreadsheet data, SaaS data, business to business data, and much more.  We have created a flyer and short video describing the benefits of this solution along with providing a small use case which we did ourselves revolving around a low cost, real-time sector performance monitoring solution using these tools. The flyer and video link are provided below.
 
 **Flyer Link:**
+https://www.canva.com/design/DAEdS7cEo1M/uUso0oAVE5u4l8gNyDrQCA/view?utm_content=DAEdS7cEo1M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 **Video Link (Also on Flyer):**
-
+https://www.youtube.com/watch?v=Ol0SQHXisZU
 
 **Check out these links for more information below:**
 
